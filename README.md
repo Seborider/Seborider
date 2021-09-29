@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sebo</h1>
-<h3 align="center">A passionate frontend developer (and a litte bit of backend developer) from Munich</h3>
+<h3 align="center">A passionate frontend developer (and a litte bit of a backend developer) from Munich</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=seborider&label=Profile%20views&color=0e75b6&style=flat" alt="seborider" /> </p>
 
