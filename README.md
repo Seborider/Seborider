@@ -25,4 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seborider&show_icons=true&locale=en&bg_color=00000000&text_color=3498db" alt="seborider" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seborider&bg_color=00000000&text_color=3498db" alt="seborider" /></p>
+
