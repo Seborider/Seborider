@@ -5,17 +5,17 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seborider" alt="seborider" /></a> </p>
 
-- 🔭 I’m currently working on [this stuff](https://github.com/Seborider?tab=repositories&type=source))
+- 🔭 I’m currently working on [this stuff](https://github.com/Seborider?tab=repositories&type=source)
 
-- 🌱 I’m currently working as a Junior Software Developter at **Check24.de**
+- 🌱 I’m currently working as a Junior Software Developer at **Check24.de**
 
-- 🤝 I’m looking for help with ruby on rails.
+- 🤝 I’m looking for help with `Ruby on Rails`.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Seborider](https://github.com/Seborider)
 
 - 📫 How to reach me **mayer.sebobo@gmail.com**
 
-- ⚡ Fun fact **I once rode a motorbike through vietnam as founding member of the famous Cobra Gang 🐍**
+- ⚡ Fun fact **I once rode a motorbike through Vietnam as founding member of the famous Cobra Gang 🐍**
 
 <h3 align="center">Stats:</h3>
 
