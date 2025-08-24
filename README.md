@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [this stuff](https://github.com/Seborider?tab=repositories&type=source)
 
-- 🌱 I’m currently working as a Software Developer at **Promptus**
+- 🌱 I’m currently working as a Software Developer at **Promptus GmbH**
 
 - 🤝 I’m looking for help with `Ruby on Rails`.
 
