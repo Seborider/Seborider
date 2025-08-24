@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mayer.sebobo@gmail.com**
 
-- ⚡ Fun fact **I once rode a motorbike through Vietnam as founding member of the famous Cobra Gang 🐍**
+- ⚡ Fun fact **I rode a motorbike through Vietnam as founding member of the famous Cobra Gang 🐍**
 
 <h3 align="center">Stats:</h3>
 
