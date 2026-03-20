@@ -5,9 +5,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seborider" alt="seborider" /></a> </p>
 
-- 🔭 I’m currently working on [this stuff](https://github.com/Seborider?tab=repositories&type=source)
+- 🔭 I’m currently working on [this stuff]([https://github.com/Seborider?tab=repositories&type=source](https://github.com/Seborider/budhidocki))
 
-- 🌱 I’m currently working as a Software Developer at **Promptus GmbH**
+- 🌱 I’m currently working as a Software Developer and Dad
 
 - 🤝 I’m looking for help with `Ruby on Rails`.
 
