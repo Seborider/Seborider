@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently working as a Software Developer and Dad
 
-- 🤝 I’m looking for help with `Ruby on Rails`.
+- 🤝 I’m looking for help with `Ruby on Rails` or `Rust`.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Seborider](https://github.com/Seborider)
 
