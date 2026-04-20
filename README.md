@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seborider" alt="seborider" /></a> </p>
 
-- 🔭 I’m currently working on [this stuff](https://github.com/Seborider/budhidocki) && [this stuff](https://github.com/Seborider/budhidocki)
+- 🔭 I’m currently working on [budhidocki](https://github.com/Seborider/budhidocki), a selfhosted budget app && a [stl/browser](https://github.com/Seborider/stl-browser) to browse and preview folders containing 3d printing files.
 
 - 🌱 I’m currently working as a Software Developer and Dad
 
