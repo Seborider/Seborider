@@ -2,7 +2,7 @@
 <h3 align="center">Software developer from Bavaria</h3>
 
 
-- 🔭 I’m currently working on [budhidocki](https://github.com/Seborider/budhidocki), a selfhosted budget app && a [stl/browser](https://github.com/Seborider/stl-browser) to browse and preview folders containing 3d printing files.
+- 🔭 I’m currently working on [budhidocki](https://github.com/Seborider/budhidocki), a selfhosted budget app && a [stl/browser](https://github.com/Seborider/stl-browser) to browse and preview folders containing 3d printing files - and my personal portfolio page.
 
 - 🌱 I’m currently working as a Software Developer and Dad
 
